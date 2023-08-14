@@ -6,7 +6,10 @@ body{
 #outer{
  height:600px;
  width:100%;
- //border:1px solid black;
+ display: flex;
+ justify-content: space-evenly;
+ flex-wrap: wrap;
+ 
 }
 .country{
 height:200px;
