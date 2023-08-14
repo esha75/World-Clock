@@ -1,0 +1,37 @@
+body{
+ background-color:#D6BCA3;
+ color:white;
+}
+
+#outer{
+ height:600px;
+ width:100%;
+ //border:1px solid black;
+}
+.country{
+height:200px;
+width:380px;
+border:1px solid black;
+display:inline;
+float:left;
+margin-top:20px;
+margin-left:20px;
+background-image:url("../Images/wc1.jpg");
+background-size:cover;
+}
+.name{
+height:16%;
+width:96%;
+background-color:black;
+text-align:center;	
+padding:2%;
+opacity:0.5;
+font-size:30px;
+color:brown;
+}
+.time{
+	font-size:40px;
+	text-align:center;
+	padding-top:20px;
+	color:white;
+}
